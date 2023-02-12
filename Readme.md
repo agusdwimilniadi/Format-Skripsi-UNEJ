@@ -2,6 +2,15 @@
 
 Format skripsi ini adalah format yang dibuat dari buku PPKI UNEJ yang ada di Link [ini](https://pasca.fisip.unej.ac.id/wp-content/uploads/sites/9/2022/04/Buku-PPKI-Unej-2016pedoman-penulisan-karya-ilmiyah.pdf).
 
+Referensi Pembuatan di Link [ini](https://youtu.be/l7u7Q2zvx48)
+
+Format skripsi ini sudah termasuk
+
+- Daftar Isi Otomatis
+- Penomoran Otomatis
+- Heading 1,2,3 sesuai Format
+- Pemberian Caption Gambar dan Tabel sesuai Format
+
 ### Cara Download
 
 ```bash
